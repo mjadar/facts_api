@@ -1,0 +1,15 @@
+#fact {
+  display: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: larger;
+  background-color: rgb(30, 28, 46);
+  color: white;
+  text-align: center;
+  padding: 4;
+}
